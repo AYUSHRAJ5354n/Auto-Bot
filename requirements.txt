@@ -14,3 +14,7 @@ tgcrypto
 torrentp==0.1.7
 git+https://github.com/kaif-00z/html-telegraph-poster
 uvloop
+lxml==5.1.0
+lxml_html_clean
+requests
+requests_toolbelt
