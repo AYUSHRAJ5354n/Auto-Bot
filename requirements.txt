@@ -18,3 +18,4 @@ lxml==5.1.0
 lxml_html_clean
 requests
 requests_toolbelt
+ffmpeg 
